@@ -1,0 +1,29 @@
+*{ padding: 0;margin: 0;box-sizing: border-box;font-family: 'Times New Roman', Times, serif;
+outline: none;text-decoration: none;border: none;}
+body{background:#F2C6C2;overflow:scroll;}
+nav{position:fixed; top: 0;bottom: 0;height: 210%;background:black;width:17%;transition:width 0.2s linear;box-shadow:0 22px 35px(0,0,0,0.3);
+}
+nav ul li{margin-top: 25px;margin-left: 5px;display: grid;gap: 4%;}
+#name{margin-left:10px;}
+#me{margin-left: 25%;}
+#names{margin-top: 2px;}
+#name{margin-left: 2px;color:white;}
+#first{color:#88477d;}
+.profile{margin-top: 58%;color: aliceblue;margin-left: 55px;}
+span{color: aliceblue;}
+#first{color:#88477d;}
+#first{color:#88477d;}
+#first{color:#88477d;}
+#hy{margin-right: 20px;color:#88477d;margin-top: 20px;font-size: 26px;}
+#back{margin-left: 280px;margin-top: -20px;}
+#intro{font-size: 35px;}
+#p1{font-size: 18px;}
+#but1{padding: 10px 20px;border-radius: 10px 10px;}
+#code{margin-left: 520px;width: 450px;margin-top: 5%;}
+#links{font-size: 30px;margin-top: 25px;margin-left: 40px;}
+#Euni{font-size: 40px;margin-left: 24%;color: #88477d;}
+#eye{font-size: 40px;}
+#notes{margin-left: 280px;font-size: 30px;}
+#Hints{margin-left: 280px;font-size: 22px;}
+#soft{color:palevioletred;font-size: 35px;} 
+section{height: 100vh;}
